@@ -1,0 +1,9 @@
+2023-11-22 06:51:55,548 INFO    functional_Test_Cases.AWC009_Configuration - Starting Configuration Test
+2023-11-22 06:51:55,552 INFO    functional_Test_Cases.AWC009_Configuration - Starting configuration_P1_WIP Method
+2023-11-22 06:51:55,552 INFO    functional_Test_Cases.AWC009_Configuration - Logged In ... Reached to Homepage
+2023-11-22 06:52:12,268 INFO    functional_Test_Cases.AWC009_Configuration - Starting configuration_P0_Release Method
+2023-11-22 06:52:12,269 INFO    functional_Test_Cases.AWC009_Configuration - Logged In ... Reached to Homepage
+2023-11-22 06:52:28,923 INFO    functional_Test_Cases.AWC009_Configuration - Starting configuration_P1_Release Method
+2023-11-22 06:52:28,927 INFO    functional_Test_Cases.AWC009_Configuration - Logged In ... Reached to Homepage
+2023-11-22 06:52:44,600 INFO    functional_Test_Cases.AWC009_Configuration - Starting configuration_EQR_Release Method
+2023-11-22 06:52:44,600 INFO    functional_Test_Cases.AWC009_Configuration - Logged In ... Reached to Homepage

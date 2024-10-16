@@ -1,0 +1,79 @@
+2023-11-16 05:45:37,419 INFO    functional_Test_Cases.AWC007_MP_Release - Starting MP Release Test
+2023-11-16 05:45:37,425 INFO    functional_Test_Cases.AWC007_MP_Release - Starting general_WIP_To_MP Method
+2023-11-16 05:45:37,425 INFO    functional_Test_Cases.AWC007_MP_Release - Logged In ... Reached to Homepage
+2023-11-16 05:45:39,231 INFO    functional_Test_Cases.AWC007_MP_Release - Reached to Folder Page
+2023-11-16 05:45:46,592 INFO    functional_Test_Cases.AWC007_MP_Release - Clicked on add Button....reached Add Popup
+2023-11-16 05:45:52,208 INFO    functional_Test_Cases.AWC007_MP_Release - Item Creation started In Add Popup
+2023-11-16 05:45:52,212 INFO    functional_Test_Cases.AWC007_MP_Release - Item Created Successfully
+2023-11-16 05:46:06,149 INFO    functional_Test_Cases.AWC007_MP_Release - Starting p0_WIP_To_MP Method
+2023-11-16 05:46:06,149 INFO    functional_Test_Cases.AWC007_MP_Release - Logged In ... Reached to Homepage
+2023-11-16 05:46:07,907 INFO    functional_Test_Cases.AWC007_MP_Release - Reached to Folder Page
+2023-11-16 05:46:15,178 INFO    functional_Test_Cases.AWC007_MP_Release - Clicked on add Button....reached Add Popup
+2023-11-16 05:46:21,379 INFO    functional_Test_Cases.AWC007_MP_Release - Item Creation started In Add Popup
+2023-11-16 05:46:21,387 INFO    functional_Test_Cases.AWC007_MP_Release - Item Created Successfully
+2023-11-16 05:46:35,577 INFO    functional_Test_Cases.AWC007_MP_Release - Starting p1_WIP_To_MP Method
+2023-11-16 05:46:35,578 INFO    functional_Test_Cases.AWC007_MP_Release - Logged In ... Reached to Homepage
+2023-11-16 05:46:37,406 INFO    functional_Test_Cases.AWC007_MP_Release - Reached to Folder Page
+2023-11-16 05:46:44,610 INFO    functional_Test_Cases.AWC007_MP_Release - Clicked on add Button....reached Add Popup
+2023-11-16 05:46:51,029 INFO    functional_Test_Cases.AWC007_MP_Release - Item Creation started In Add Popup
+2023-11-16 05:46:51,040 INFO    functional_Test_Cases.AWC007_MP_Release - Item Created Successfully
+2023-11-16 05:47:05,163 INFO    functional_Test_Cases.AWC007_MP_Release - Starting p2_WIP_To_MP Method
+2023-11-16 05:47:05,163 INFO    functional_Test_Cases.AWC007_MP_Release - Logged In ... Reached to Homepage
+2023-11-16 05:47:06,910 INFO    functional_Test_Cases.AWC007_MP_Release - Reached to Folder Page
+2023-11-16 05:47:14,218 INFO    functional_Test_Cases.AWC007_MP_Release - Clicked on add Button....reached Add Popup
+2023-11-16 05:47:20,612 INFO    functional_Test_Cases.AWC007_MP_Release - Item Creation started In Add Popup
+2023-11-16 05:47:20,616 INFO    functional_Test_Cases.AWC007_MP_Release - Item Created Successfully
+2023-11-16 05:47:34,592 INFO    functional_Test_Cases.AWC007_MP_Release - Starting p3_WIP_To_MP Method
+2023-11-16 05:47:34,594 INFO    functional_Test_Cases.AWC007_MP_Release - Logged In ... Reached to Homepage
+2023-11-16 05:47:36,347 INFO    functional_Test_Cases.AWC007_MP_Release - Reached to Folder Page
+2023-11-16 05:47:43,716 INFO    functional_Test_Cases.AWC007_MP_Release - Clicked on add Button....reached Add Popup
+2023-11-16 05:47:50,202 INFO    functional_Test_Cases.AWC007_MP_Release - Item Creation started In Add Popup
+2023-11-16 05:47:50,208 INFO    functional_Test_Cases.AWC007_MP_Release - Item Created Successfully
+2023-11-16 05:48:03,639 INFO    functional_Test_Cases.AWC007_MP_Release - Starting dVT1_WIP_To_MP Method
+2023-11-16 05:48:03,640 INFO    functional_Test_Cases.AWC007_MP_Release - Logged In ... Reached to Homepage
+2023-11-16 05:48:05,416 INFO    functional_Test_Cases.AWC007_MP_Release - Reached to Folder Page
+2023-11-16 05:48:12,755 INFO    functional_Test_Cases.AWC007_MP_Release - Clicked on add Button....reached Add Popup
+2023-11-16 05:48:19,082 INFO    functional_Test_Cases.AWC007_MP_Release - Item Creation started In Add Popup
+2023-11-16 05:48:19,086 INFO    functional_Test_Cases.AWC007_MP_Release - Item Created Successfully
+2023-11-16 05:48:33,054 INFO    functional_Test_Cases.AWC007_MP_Release - Starting dVT2_WIP_To_MP Method
+2023-11-16 05:48:33,055 INFO    functional_Test_Cases.AWC007_MP_Release - Logged In ... Reached to Homepage
+2023-11-16 05:48:34,979 INFO    functional_Test_Cases.AWC007_MP_Release - Reached to Folder Page
+2023-11-16 05:48:42,565 INFO    functional_Test_Cases.AWC007_MP_Release - Clicked on add Button....reached Add Popup
+2023-11-16 05:48:48,872 INFO    functional_Test_Cases.AWC007_MP_Release - Item Creation started In Add Popup
+2023-11-16 05:48:48,876 INFO    functional_Test_Cases.AWC007_MP_Release - Item Created Successfully
+2023-11-16 05:49:02,487 INFO    functional_Test_Cases.AWC007_MP_Release - Starting Dvt3_WIP_To_MP Method
+2023-11-16 05:49:02,488 INFO    functional_Test_Cases.AWC007_MP_Release - Logged In ... Reached to Homepage
+2023-11-16 05:49:04,301 INFO    functional_Test_Cases.AWC007_MP_Release - Reached to Folder Page
+2023-11-16 05:49:11,643 INFO    functional_Test_Cases.AWC007_MP_Release - Clicked on add Button....reached Add Popup
+2023-11-16 05:49:17,937 INFO    functional_Test_Cases.AWC007_MP_Release - Item Creation started In Add Popup
+2023-11-16 05:49:17,942 INFO    functional_Test_Cases.AWC007_MP_Release - Item Created Successfully
+2023-11-16 05:50:21,421 INFO    functional_Test_Cases.AWC007_MP_Release - Starting eVT1_WIP_To_MP Method
+2023-11-16 05:50:21,421 INFO    functional_Test_Cases.AWC007_MP_Release - Logged In ... Reached to Homepage
+2023-11-16 05:50:23,236 INFO    functional_Test_Cases.AWC007_MP_Release - Reached to Folder Page
+2023-11-16 05:50:30,516 INFO    functional_Test_Cases.AWC007_MP_Release - Clicked on add Button....reached Add Popup
+2023-11-16 05:50:36,913 INFO    functional_Test_Cases.AWC007_MP_Release - Item Creation started In Add Popup
+2023-11-16 05:50:36,917 INFO    functional_Test_Cases.AWC007_MP_Release - Item Created Successfully
+2023-11-16 05:50:51,036 INFO    functional_Test_Cases.AWC007_MP_Release - Starting eVT2_WIP_To_MP Method
+2023-11-16 05:50:51,036 INFO    functional_Test_Cases.AWC007_MP_Release - Logged In ... Reached to Homepage
+2023-11-16 05:50:52,827 INFO    functional_Test_Cases.AWC007_MP_Release - Reached to Folder Page
+2023-11-16 05:51:00,097 INFO    functional_Test_Cases.AWC007_MP_Release - Clicked on add Button....reached Add Popup
+2023-11-16 05:51:06,403 INFO    functional_Test_Cases.AWC007_MP_Release - Item Creation started In Add Popup
+2023-11-16 05:51:06,410 INFO    functional_Test_Cases.AWC007_MP_Release - Item Created Successfully
+2023-11-16 05:51:20,412 INFO    functional_Test_Cases.AWC007_MP_Release - Starting eVT3_WIP_To_MP Method
+2023-11-16 05:51:20,413 INFO    functional_Test_Cases.AWC007_MP_Release - Logged In ... Reached to Homepage
+2023-11-16 05:51:22,243 INFO    functional_Test_Cases.AWC007_MP_Release - Reached to Folder Page
+2023-11-16 05:51:29,579 INFO    functional_Test_Cases.AWC007_MP_Release - Clicked on add Button....reached Add Popup
+2023-11-16 05:51:35,899 INFO    functional_Test_Cases.AWC007_MP_Release - Item Creation started In Add Popup
+2023-11-16 05:51:35,905 INFO    functional_Test_Cases.AWC007_MP_Release - Item Created Successfully
+2023-11-16 05:51:49,958 INFO    functional_Test_Cases.AWC007_MP_Release - Starting pVT1_WIP_To_MP Method
+2023-11-16 05:51:49,959 INFO    functional_Test_Cases.AWC007_MP_Release - Logged In ... Reached to Homepage
+2023-11-16 05:51:51,775 INFO    functional_Test_Cases.AWC007_MP_Release - Reached to Folder Page
+2023-11-16 05:51:59,025 INFO    functional_Test_Cases.AWC007_MP_Release - Clicked on add Button....reached Add Popup
+2023-11-16 05:52:05,304 INFO    functional_Test_Cases.AWC007_MP_Release - Item Creation started In Add Popup
+2023-11-16 05:52:05,311 INFO    functional_Test_Cases.AWC007_MP_Release - Item Created Successfully
+2023-11-16 05:52:19,456 INFO    functional_Test_Cases.AWC007_MP_Release - Starting pVT2_WIP_To_MP Method
+2023-11-16 05:52:19,456 INFO    functional_Test_Cases.AWC007_MP_Release - Logged In ... Reached to Homepage
+2023-11-16 05:52:21,305 INFO    functional_Test_Cases.AWC007_MP_Release - Reached to Folder Page
+2023-11-16 05:52:28,677 INFO    functional_Test_Cases.AWC007_MP_Release - Clicked on add Button....reached Add Popup
+2023-11-16 05:52:34,978 INFO    functional_Test_Cases.AWC007_MP_Release - Item Creation started In Add Popup
+2023-11-16 05:52:34,982 INFO    functional_Test_Cases.AWC007_MP_Release - Item Created Successfully

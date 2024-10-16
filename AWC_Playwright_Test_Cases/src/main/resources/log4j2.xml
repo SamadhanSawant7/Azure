@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+<Properties>
+        <Property name="runid">$${date:YYYY-MM-dd HH-mm-ss}</Property>
+    </Properties>
+	<Appenders>
+		<Console name="Console" target="SYSTEM_OUT">
+			<PatternLayout
+				pattern="%d %-7level %logger{36} - %msg%n" />
+		</Console>
+		<File name="MyFile"
+			fileName="logs\${runid}.log"  immediateFlush="false" append="true">
+			<PatternLayout
+				pattern="%d %-7level %logger{36} - %msg%n" />
+		</File>
+	</Appenders>
+	<Loggers>
+		<Root level="info">
+			<!-- Only events at DIAG level or more specific are sent to the console. -->
+			<AppenderRef ref="Console" level="info" />
+			<AppenderRef ref="MyFile" level="info" />
+		</Root>
+	</Loggers>
+</Configuration>

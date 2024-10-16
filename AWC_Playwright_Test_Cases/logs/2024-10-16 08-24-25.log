@@ -1,0 +1,4 @@
+2024-10-16 08:24:34,923 INFO    basic_Test_Cases.AWC001_Positive_Login - Starting Positive Login Test
+2024-10-16 08:24:35,536 INFO    basic_Test_Cases.AWC001_Positive_Login - Entered username and password
+2024-10-16 08:24:35,542 INFO    basic_Test_Cases.AWC001_Positive_Login - Clicked on Login Button
+2024-10-16 08:24:37,409 INFO    basic_Test_Cases.AWC001_Positive_Login - Logged in......Test Case Passed

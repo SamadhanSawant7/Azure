@@ -1,0 +1,73 @@
+2023-11-23 05:49:45,186 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Starting Submit to Workflow Test
+2023-11-23 05:49:45,189 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Starting PO_Release Method
+2023-11-23 05:49:45,189 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Logged In ... Reached to Homepage
+2023-11-23 05:49:47,131 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Reached to Folder Page
+2023-11-23 05:49:54,932 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Clicked on add Button....reached Add Popup
+2023-11-23 05:50:01,719 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Item Creation started In Add Popup
+2023-11-23 05:50:01,723 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Item Created Successfully
+2023-11-23 05:50:18,047 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Starting P1_Release Method
+2023-11-23 05:50:18,047 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Logged In ... Reached to Homepage
+2023-11-23 05:50:19,849 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Reached to Folder Page
+2023-11-23 05:50:27,238 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Clicked on add Button....reached Add Popup
+2023-11-23 05:50:34,068 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Item Creation started In Add Popup
+2023-11-23 05:50:34,078 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Item Created Successfully
+2023-11-23 05:50:50,498 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Starting P2_Release Method
+2023-11-23 05:50:50,499 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Logged In ... Reached to Homepage
+2023-11-23 05:50:52,326 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Reached to Folder Page
+2023-11-23 05:51:00,095 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Clicked on add Button....reached Add Popup
+2023-11-23 05:51:06,533 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Item Creation started In Add Popup
+2023-11-23 05:51:06,537 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Item Created Successfully
+2023-11-23 05:51:23,034 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Starting P3_Release Method
+2023-11-23 05:51:23,035 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Logged In ... Reached to Homepage
+2023-11-23 05:51:24,838 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Reached to Folder Page
+2023-11-23 05:51:32,437 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Clicked on add Button....reached Add Popup
+2023-11-23 05:51:39,274 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Item Creation started In Add Popup
+2023-11-23 05:51:39,281 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Item Created Successfully
+2023-11-23 05:51:55,887 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Starting EVT1_Release Method
+2023-11-23 05:51:55,887 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Logged In ... Reached to Homepage
+2023-11-23 05:51:57,779 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Reached to Folder Page
+2023-11-23 05:52:05,514 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Clicked on add Button....reached Add Popup
+2023-11-23 05:52:11,911 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Item Creation started In Add Popup
+2023-11-23 05:52:11,915 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Item Created Successfully
+2023-11-23 05:52:27,972 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Starting EVT2_Release Method
+2023-11-23 05:52:27,973 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Logged In ... Reached to Homepage
+2023-11-23 05:52:29,877 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Reached to Folder Page
+2023-11-23 05:52:37,545 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Clicked on add Button....reached Add Popup
+2023-11-23 05:52:44,442 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Item Creation started In Add Popup
+2023-11-23 05:52:44,449 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Item Created Successfully
+2023-11-23 05:52:58,796 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Starting EVT3_Release Method
+2023-11-23 05:52:58,796 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Logged In ... Reached to Homepage
+2023-11-23 05:53:00,581 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Reached to Folder Page
+2023-11-23 05:53:08,051 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Clicked on add Button....reached Add Popup
+2023-11-23 05:53:14,788 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Item Creation started In Add Popup
+2023-11-23 05:53:14,792 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Item Created Successfully
+2023-11-23 05:53:29,499 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Starting DVT1_Release Method
+2023-11-23 05:53:29,499 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Logged In ... Reached to Homepage
+2023-11-23 05:53:31,298 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Reached to Folder Page
+2023-11-23 05:53:38,855 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Clicked on add Button....reached Add Popup
+2023-11-23 05:53:45,119 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Item Creation started In Add Popup
+2023-11-23 05:53:45,125 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Item Created Successfully
+2023-11-23 05:54:01,691 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Starting DVT2_Release Method
+2023-11-23 05:54:01,691 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Logged In ... Reached to Homepage
+2023-11-23 05:54:03,437 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Reached to Folder Page
+2023-11-23 05:54:10,829 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Clicked on add Button....reached Add Popup
+2023-11-23 05:54:17,666 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Item Creation started In Add Popup
+2023-11-23 05:54:17,670 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Item Created Successfully
+2023-11-23 05:54:32,611 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Starting DVT3_Release Method
+2023-11-23 05:54:32,611 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Logged In ... Reached to Homepage
+2023-11-23 05:54:34,398 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Reached to Folder Page
+2023-11-23 05:54:42,274 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Clicked on add Button....reached Add Popup
+2023-11-23 05:54:48,637 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Item Creation started In Add Popup
+2023-11-23 05:54:48,646 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Item Created Successfully
+2023-11-23 05:55:03,719 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Starting PVT1_Release Method
+2023-11-23 05:55:03,719 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Logged In ... Reached to Homepage
+2023-11-23 05:55:05,494 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Reached to Folder Page
+2023-11-23 05:55:13,022 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Clicked on add Button....reached Add Popup
+2023-11-23 05:55:19,736 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Item Creation started In Add Popup
+2023-11-23 05:55:19,743 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Item Created Successfully
+2023-11-23 05:55:35,868 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Starting PVT2_Release Method
+2023-11-23 05:55:35,869 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Logged In ... Reached to Homepage
+2023-11-23 05:55:37,691 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Reached to Folder Page
+2023-11-23 05:55:45,202 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Clicked on add Button....reached Add Popup
+2023-11-23 05:55:51,427 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Item Creation started In Add Popup
+2023-11-23 05:55:51,431 INFO    functional_Test_Cases.AWC005Submit_To_Workflow - Item Created Successfully

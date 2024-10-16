@@ -1,0 +1,25 @@
+2023-11-16 06:14:05,075 INFO    negative_Test_Cases.AWC003_Submit_To_Workflow - Starting submit_To_Workflow_P3_WIP Method
+2023-11-16 06:14:05,079 INFO    negative_Test_Cases.AWC003_Submit_To_Workflow - Logged In ... Reached to Homepage
+2023-11-16 06:14:07,952 INFO    negative_Test_Cases.AWC003_Submit_To_Workflow - Reached to Folder Page
+2023-11-16 06:14:18,075 INFO    negative_Test_Cases.AWC003_Submit_To_Workflow - Clicked on add Button....reached Add Popup
+2023-11-16 06:14:28,859 INFO    negative_Test_Cases.AWC003_Submit_To_Workflow - Item Creation started In Add Popup
+2023-11-16 06:14:29,393 INFO    negative_Test_Cases.AWC003_Submit_To_Workflow - Item Created Successfully
+2023-11-16 06:14:59,555 INFO    negative_Test_Cases.AWC003_Submit_To_Workflow - Starting Submit to workflow Test
+2023-11-16 06:14:59,556 INFO    negative_Test_Cases.AWC003_Submit_To_Workflow - Starting submit_To_Workflow_DVT3_WIP Method
+2023-11-16 06:14:59,556 INFO    negative_Test_Cases.AWC003_Submit_To_Workflow - Logged In ... Reached to Homepage
+2023-11-16 06:15:02,483 INFO    negative_Test_Cases.AWC003_Submit_To_Workflow - Reached to Folder Page
+2023-11-16 06:15:10,975 INFO    negative_Test_Cases.AWC003_Submit_To_Workflow - Clicked on add Button....reached Add Popup
+2023-11-16 06:15:20,767 INFO    negative_Test_Cases.AWC003_Submit_To_Workflow - Item Creation started In Add Popup
+2023-11-16 06:15:20,965 INFO    negative_Test_Cases.AWC003_Submit_To_Workflow - Item Created Successfully
+2023-11-16 06:16:35,138 INFO    negative_Test_Cases.AWC003_Submit_To_Workflow - Starting submit_To_Workflow_EVT3_WIP Method
+2023-11-16 06:16:35,138 INFO    negative_Test_Cases.AWC003_Submit_To_Workflow - Logged In ... Reached to Homepage
+2023-11-16 06:16:37,237 INFO    negative_Test_Cases.AWC003_Submit_To_Workflow - Reached to Folder Page
+2023-11-16 06:16:57,581 INFO    negative_Test_Cases.AWC003_Submit_To_Workflow - Clicked on add Button....reached Add Popup
+2023-11-16 06:17:28,775 INFO    negative_Test_Cases.AWC003_Submit_To_Workflow - Item Creation started In Add Popup
+2023-11-16 06:17:29,379 INFO    negative_Test_Cases.AWC003_Submit_To_Workflow - Item Created Successfully
+2023-11-16 06:18:19,322 INFO    negative_Test_Cases.AWC003_Submit_To_Workflow - Starting submit_To_Workflow_EVT3_WIP Method
+2023-11-16 06:18:19,323 INFO    negative_Test_Cases.AWC003_Submit_To_Workflow - Logged In ... Reached to Homepage
+2023-11-16 06:18:21,791 INFO    negative_Test_Cases.AWC003_Submit_To_Workflow - Reached to Folder Page
+2023-11-16 06:18:29,946 INFO    negative_Test_Cases.AWC003_Submit_To_Workflow - Clicked on add Button....reached Add Popup
+2023-11-16 06:19:36,753 INFO    negative_Test_Cases.AWC003_Submit_To_Workflow - Item Creation started In Add Popup
+2023-11-16 06:19:37,500 INFO    negative_Test_Cases.AWC003_Submit_To_Workflow - Item Created Successfully

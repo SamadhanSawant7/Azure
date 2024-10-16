@@ -1,0 +1,6 @@
+2023-11-23 06:48:06,798 INFO    functional_Test_Cases.AWC006Freeze_Release_Status - Starting eVT2_WIP_To_EQR Method
+2023-11-23 06:48:06,802 INFO    functional_Test_Cases.AWC006Freeze_Release_Status - Logged In ... Reached to Homepage
+2023-11-23 06:48:10,060 INFO    functional_Test_Cases.AWC006Freeze_Release_Status - Reached to Folder Page
+2023-11-23 06:48:23,218 INFO    functional_Test_Cases.AWC006Freeze_Release_Status - Clicked on add Button....reached Add Popup
+2023-11-23 06:48:33,708 INFO    functional_Test_Cases.AWC006Freeze_Release_Status - Item Creation started In Add Popup
+2023-11-23 06:48:34,993 INFO    functional_Test_Cases.AWC006Freeze_Release_Status - Item Created Successfully

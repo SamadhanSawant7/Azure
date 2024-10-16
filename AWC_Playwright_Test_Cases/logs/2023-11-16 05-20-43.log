@@ -1,0 +1,77 @@
+2023-11-16 05:20:56,711 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Starting Freeze Release Status Test
+2023-11-16 05:20:56,714 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Starting genreal_WIP_To_EQR Method
+2023-11-16 05:20:56,715 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Logged In ... Reached to Homepage
+2023-11-16 05:20:58,896 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Reached to Folder Page
+2023-11-16 05:21:08,063 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Clicked on add Button....reached Add Popup
+2023-11-16 05:21:16,437 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Item Creation started In Add Popup
+2023-11-16 05:21:17,244 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Item Created Successfully
+2023-11-16 05:21:47,686 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Starting p0_WIP_To_EQR Method
+2023-11-16 05:21:47,686 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Logged In ... Reached to Homepage
+2023-11-16 05:21:50,662 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Reached to Folder Page
+2023-11-16 05:22:00,994 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Clicked on add Button....reached Add Popup
+2023-11-16 05:22:15,045 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Item Creation started In Add Popup
+2023-11-16 05:22:15,995 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Item Created Successfully
+2023-11-16 05:22:45,644 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Starting p1_WIP_To_EQR Method
+2023-11-16 05:22:45,644 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Logged In ... Reached to Homepage
+2023-11-16 05:22:48,011 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Reached to Folder Page
+2023-11-16 05:22:57,770 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Clicked on add Button....reached Add Popup
+2023-11-16 05:23:10,227 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Item Creation started In Add Popup
+2023-11-16 05:23:11,284 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Item Created Successfully
+2023-11-16 05:24:10,661 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Starting p2_WIP_To_EQR Method
+2023-11-16 05:24:10,662 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Logged In ... Reached to Homepage
+2023-11-16 05:24:13,341 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Reached to Folder Page
+2023-11-16 05:24:22,824 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Clicked on add Button....reached Add Popup
+2023-11-16 05:24:39,922 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Item Creation started In Add Popup
+2023-11-16 05:24:40,050 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Item Created Successfully
+2023-11-16 05:26:00,972 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Starting p3_WIP_To_EQR Method
+2023-11-16 05:26:00,974 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Logged In ... Reached to Homepage
+2023-11-16 05:26:11,163 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Reached to Folder Page
+2023-11-16 05:26:55,415 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Clicked on add Button....reached Add Popup
+2023-11-16 05:27:54,073 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Item Creation started In Add Popup
+2023-11-16 05:27:56,420 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Item Created Successfully
+2023-11-16 05:28:52,146 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Starting dVT1_WIP_To_EQR Method
+2023-11-16 05:28:52,147 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Logged In ... Reached to Homepage
+2023-11-16 05:28:54,900 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Reached to Folder Page
+2023-11-16 05:29:04,530 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Clicked on add Button....reached Add Popup
+2023-11-16 05:29:26,958 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Item Creation started In Add Popup
+2023-11-16 05:30:49,690 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Starting dVT2_WIP_To_EQR Method
+2023-11-16 05:30:49,690 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Logged In ... Reached to Homepage
+2023-11-16 05:30:56,593 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Reached to Folder Page
+2023-11-16 05:31:07,572 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Clicked on add Button....reached Add Popup
+2023-11-16 05:31:22,415 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Item Creation started In Add Popup
+2023-11-16 05:31:22,538 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Item Created Successfully
+2023-11-16 05:32:47,809 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Starting Dvt3_WIP_To_EQR Method
+2023-11-16 05:32:47,809 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Logged In ... Reached to Homepage
+2023-11-16 05:32:49,979 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Reached to Folder Page
+2023-11-16 05:33:29,606 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Clicked on add Button....reached Add Popup
+2023-11-16 05:33:44,013 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Item Creation started In Add Popup
+2023-11-16 05:33:44,614 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Item Created Successfully
+2023-11-16 05:34:42,194 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Starting eVT1_WIP_To_EQR Method
+2023-11-16 05:34:42,194 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Logged In ... Reached to Homepage
+2023-11-16 05:34:45,206 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Reached to Folder Page
+2023-11-16 05:34:57,399 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Clicked on add Button....reached Add Popup
+2023-11-16 05:36:01,096 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Item Creation started In Add Popup
+2023-11-16 05:36:30,580 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Starting eVT2_WIP_To_EQR Method
+2023-11-16 05:36:30,581 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Logged In ... Reached to Homepage
+2023-11-16 05:36:39,085 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Reached to Folder Page
+2023-11-16 05:36:49,901 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Clicked on add Button....reached Add Popup
+2023-11-16 05:36:59,689 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Item Creation started In Add Popup
+2023-11-16 05:37:00,515 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Item Created Successfully
+2023-11-16 05:37:35,931 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Starting eVT3_WIP_To_EQR Method
+2023-11-16 05:37:35,931 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Logged In ... Reached to Homepage
+2023-11-16 05:37:38,013 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Reached to Folder Page
+2023-11-16 05:37:50,361 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Clicked on add Button....reached Add Popup
+2023-11-16 05:38:06,808 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Item Creation started In Add Popup
+2023-11-16 05:38:06,877 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Item Created Successfully
+2023-11-16 05:38:32,160 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Starting pVT1_WIP_To_EQR Method
+2023-11-16 05:38:32,160 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Logged In ... Reached to Homepage
+2023-11-16 05:40:25,972 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Reached to Folder Page
+2023-11-16 05:40:40,661 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Clicked on add Button....reached Add Popup
+2023-11-16 05:41:23,766 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Item Creation started In Add Popup
+2023-11-16 05:41:24,763 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Item Created Successfully
+2023-11-16 05:42:44,750 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Starting pVT2_WIP_To_EQR Method
+2023-11-16 05:42:44,750 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Logged In ... Reached to Homepage
+2023-11-16 05:42:48,334 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Reached to Folder Page
+2023-11-16 05:42:58,180 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Clicked on add Button....reached Add Popup
+2023-11-16 05:43:31,013 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Item Creation started In Add Popup
+2023-11-16 05:43:32,450 INFO    functional_Test_Cases.AWC006_Freeze_Release_Status - Item Created Successfully

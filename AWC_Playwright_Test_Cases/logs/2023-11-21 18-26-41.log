@@ -1,0 +1,85 @@
+2023-11-21 18:26:49,292 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Starting Convert WIP Status Test
+2023-11-21 18:26:49,296 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Starting convert_GeneralWIP Method
+2023-11-21 18:26:49,296 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Logged In ... Reached to Homepage
+2023-11-21 18:26:51,047 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Reached to Folder Page
+2023-11-21 18:26:58,485 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Clicked on add Button....reached Add Popup
+2023-11-21 18:27:04,845 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Item Creation started In Add Popup
+2023-11-21 18:27:04,849 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Item Created Successfully
+2023-11-21 18:27:13,998 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Release Status is Matched
+2023-11-21 18:27:16,789 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Starting convert_P1WIP Method 
+2023-11-21 18:27:16,789 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Logged In ... Reached to Homepage
+2023-11-21 18:27:18,580 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Reached to Folder Page
+2023-11-21 18:27:26,149 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Clicked on add Button....reached Add Popup
+2023-11-21 18:27:32,525 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Item Creation started In Add Popup
+2023-11-21 18:27:32,532 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Item Created Successfully
+2023-11-21 18:27:41,813 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Release Status is Matched
+2023-11-21 18:27:44,735 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Starting convert_P2WIP Method
+2023-11-21 18:27:44,736 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Logged In ... Reached to Homepage
+2023-11-21 18:27:46,583 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Reached to Folder Page
+2023-11-21 18:27:54,324 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Clicked on add Button....reached Add Popup
+2023-11-21 18:28:00,726 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Item Creation started In Add Popup
+2023-11-21 18:28:00,731 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Item Created Successfully
+2023-11-21 18:28:09,977 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Release Status is Matched
+2023-11-21 18:28:13,153 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Starting convert_P3WIP Method
+2023-11-21 18:28:13,155 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Logged In ... Reached to Homepage
+2023-11-21 18:28:14,957 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Reached to Folder Page
+2023-11-21 18:28:22,548 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Clicked on add Button....reached Add Popup
+2023-11-21 18:28:28,758 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Item Creation started In Add Popup
+2023-11-21 18:28:28,762 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Item Created Successfully
+2023-11-21 18:28:37,814 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Release Status is Matched
+2023-11-21 18:28:40,951 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Starting convert_EVT1WIP Method
+2023-11-21 18:28:40,953 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Logged In ... Reached to Homepage
+2023-11-21 18:28:42,772 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Reached to Folder Page
+2023-11-21 18:28:50,545 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Clicked on add Button....reached Add Popup
+2023-11-21 18:28:56,828 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Item Creation started In Add Popup
+2023-11-21 18:28:56,831 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Item Created Successfully
+2023-11-21 18:29:05,904 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Release Status is Matched
+2023-11-21 18:29:09,092 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Starting convert_EVT2WIP Method
+2023-11-21 18:29:09,093 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Logged In ... Reached to Homepage
+2023-11-21 18:29:10,881 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Reached to Folder Page
+2023-11-21 18:29:18,356 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Clicked on add Button....reached Add Popup
+2023-11-21 18:29:24,482 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Item Creation started In Add Popup
+2023-11-21 18:29:24,486 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Item Created Successfully
+2023-11-21 18:29:33,834 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Release Status is Matched
+2023-11-21 18:29:36,759 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Starting convert_EVT3WIP Method
+2023-11-21 18:29:36,759 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Logged In ... Reached to Homepage
+2023-11-21 18:29:38,587 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Reached to Folder Page
+2023-11-21 18:29:46,068 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Clicked on add Button....reached Add Popup
+2023-11-21 18:29:52,905 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Item Creation started In Add Popup
+2023-11-21 18:29:52,910 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Item Created Successfully
+2023-11-21 18:30:01,820 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Release Status is Matched
+2023-11-21 18:30:04,651 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Starting convert_DVT1WIP Method
+2023-11-21 18:30:04,651 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Logged In ... Reached to Homepage
+2023-11-21 18:30:06,532 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Reached to Folder Page
+2023-11-21 18:30:14,209 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Clicked on add Button....reached Add Popup
+2023-11-21 18:30:20,478 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Item Creation started In Add Popup
+2023-11-21 18:30:20,482 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Item Created Successfully
+2023-11-21 18:30:29,421 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Release Status is Matched
+2023-11-21 18:30:32,376 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Starting convert_DVT2WIP Method
+2023-11-21 18:30:32,376 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Logged In ... Reached to Homepage
+2023-11-21 18:30:34,353 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Reached to Folder Page
+2023-11-21 18:30:41,970 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Clicked on add Button....reached Add Popup
+2023-11-21 18:30:48,348 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Item Creation started In Add Popup
+2023-11-21 18:30:48,354 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Item Created Successfully
+2023-11-21 18:30:58,670 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Release Status is Matched
+2023-11-21 18:31:01,950 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Starting convert_DVT3WIP Method
+2023-11-21 18:31:01,950 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Logged In ... Reached to Homepage
+2023-11-21 18:31:03,777 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Reached to Folder Page
+2023-11-21 18:31:11,224 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Clicked on add Button....reached Add Popup
+2023-11-21 18:31:17,495 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Item Creation started In Add Popup
+2023-11-21 18:31:17,501 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Item Created Successfully
+2023-11-21 18:31:26,428 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Release Status is Matched
+2023-11-21 18:31:29,371 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Starting convert_PVT1WIP Method
+2023-11-21 18:31:29,373 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Logged In ... Reached to Homepage
+2023-11-21 18:31:31,261 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Reached to Folder Page
+2023-11-21 18:31:38,950 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Clicked on add Button....reached Add Popup
+2023-11-21 18:31:47,935 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Item Creation started In Add Popup
+2023-11-21 18:31:47,938 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Item Created Successfully
+2023-11-21 18:31:56,382 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Release Status is Matched
+2023-11-21 18:31:59,655 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Starting convert_PVT2WIP Method
+2023-11-21 18:31:59,656 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Logged In ... Reached to Homepage
+2023-11-21 18:32:01,516 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Reached to Folder Page
+2023-11-21 18:32:09,398 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Clicked on add Button....reached Add Popup
+2023-11-21 18:32:15,869 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Item Creation started In Add Popup
+2023-11-21 18:32:15,874 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Item Created Successfully
+2023-11-21 18:32:24,861 INFO    functional_Test_Cases.AWC004Converting_WIP_status - Release Status is Matched

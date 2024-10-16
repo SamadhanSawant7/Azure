@@ -1,0 +1,6 @@
+2023-11-22 06:41:22,703 INFO    functional_Test_Cases.AWC008_Create_BOM_Structure - Starting Restricting WIP Status Test
+2023-11-22 06:41:22,706 INFO    functional_Test_Cases.AWC008_Create_BOM_Structure - Logged In ... Reached to Homepage
+2023-11-22 06:41:24,654 INFO    functional_Test_Cases.AWC008_Create_BOM_Structure - Reached to Folder Page
+2023-11-22 06:41:32,676 INFO    functional_Test_Cases.AWC008_Create_BOM_Structure - Clicked on add Button....reached Add Popup
+2023-11-22 06:41:38,945 INFO    functional_Test_Cases.AWC008_Create_BOM_Structure - Item Creation started In Add Popup
+2023-11-22 06:41:38,953 INFO    functional_Test_Cases.AWC008_Create_BOM_Structure - Item Created Successfully

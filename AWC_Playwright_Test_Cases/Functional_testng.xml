@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Suite">
+<listeners>
+<listener class-name="listeners.ExtentReportListener"></listener>
+</listeners>
+	<test thread-count="5" parallel="none" name="Test">
+		<classes>
+			<class name="functional_Test_Cases.AWC001Restricting_WIP_status" />
+			<class name="functional_Test_Cases.AWC002Working_On_Multiple_WIP_Revisions" />
+			<class name="functional_Test_Cases.AWC003Enable_Using_SaveAs" />
+			<class name="functional_Test_Cases.AWC004Converting_WIP_status" />
+			<class name="functional_Test_Cases.AWC005Submit_To_Workflow" />
+			<class name="functional_Test_Cases.AWC006Freeze_Release_Status" />
+			<class name="functional_Test_Cases.AWC007MP_Release" />
+			<class name="functional_Test_Cases.AWC008_Create_BOM_Structure" />
+			<class name="functional_Test_Cases.AWC009_Configuration" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,25 @@
+2023-11-21 16:10:32,322 INFO    functional_Test_Cases.AWC002Working_On_Multiple_WIP_Revisions - Starting Working on Multiple WIP Revisions Test
+2023-11-21 16:10:32,327 INFO    functional_Test_Cases.AWC002Working_On_Multiple_WIP_Revisions - Starting work_On_P0_WIP_Revisions Method
+2023-11-21 16:10:32,327 INFO    functional_Test_Cases.AWC002Working_On_Multiple_WIP_Revisions - Logged In ... Reached to Homepage
+2023-11-21 16:10:34,155 INFO    functional_Test_Cases.AWC002Working_On_Multiple_WIP_Revisions - Reached to Folder Page
+2023-11-21 16:10:42,153 INFO    functional_Test_Cases.AWC002Working_On_Multiple_WIP_Revisions - Clicked on add Button....reached Add Popup
+2023-11-21 16:10:48,923 INFO    functional_Test_Cases.AWC002Working_On_Multiple_WIP_Revisions - Item Creation started In Add Popup
+2023-11-21 16:10:48,933 INFO    functional_Test_Cases.AWC002Working_On_Multiple_WIP_Revisions - Item Created Successfully
+2023-11-21 16:11:32,853 INFO    functional_Test_Cases.AWC002Working_On_Multiple_WIP_Revisions - Starting work_On_EVT1_WIP_Revisions Method
+2023-11-21 16:11:32,853 INFO    functional_Test_Cases.AWC002Working_On_Multiple_WIP_Revisions - Logged In ... Reached to Homepage
+2023-11-21 16:11:34,693 INFO    functional_Test_Cases.AWC002Working_On_Multiple_WIP_Revisions - Reached to Folder Page
+2023-11-21 16:11:42,341 INFO    functional_Test_Cases.AWC002Working_On_Multiple_WIP_Revisions - Clicked on add Button....reached Add Popup
+2023-11-21 16:11:48,752 INFO    functional_Test_Cases.AWC002Working_On_Multiple_WIP_Revisions - Item Creation started In Add Popup
+2023-11-21 16:11:48,761 INFO    functional_Test_Cases.AWC002Working_On_Multiple_WIP_Revisions - Item Created Successfully
+2023-11-21 16:12:52,254 INFO    functional_Test_Cases.AWC002Working_On_Multiple_WIP_Revisions - Starting work_On_EVT1_WIP_Revisions Method
+2023-11-21 16:12:52,254 INFO    functional_Test_Cases.AWC002Working_On_Multiple_WIP_Revisions - Logged In ... Reached to Homepage
+2023-11-21 16:12:54,032 INFO    functional_Test_Cases.AWC002Working_On_Multiple_WIP_Revisions - Reached to Folder Page
+2023-11-21 16:13:01,396 INFO    functional_Test_Cases.AWC002Working_On_Multiple_WIP_Revisions - Clicked on add Button....reached Add Popup
+2023-11-21 16:13:07,589 INFO    functional_Test_Cases.AWC002Working_On_Multiple_WIP_Revisions - Item Creation started In Add Popup
+2023-11-21 16:13:07,593 INFO    functional_Test_Cases.AWC002Working_On_Multiple_WIP_Revisions - Item Created Successfully
+2023-11-21 16:13:51,072 INFO    functional_Test_Cases.AWC002Working_On_Multiple_WIP_Revisions - Starting work_On_PVT1_WIP_Revisions Method
+2023-11-21 16:13:51,072 INFO    functional_Test_Cases.AWC002Working_On_Multiple_WIP_Revisions - Logged In ... Reached to Homepage
+2023-11-21 16:13:52,823 INFO    functional_Test_Cases.AWC002Working_On_Multiple_WIP_Revisions - Reached to Folder Page
+2023-11-21 16:14:00,243 INFO    functional_Test_Cases.AWC002Working_On_Multiple_WIP_Revisions - Clicked on add Button....reached Add Popup
+2023-11-21 16:14:06,500 INFO    functional_Test_Cases.AWC002Working_On_Multiple_WIP_Revisions - Item Creation started In Add Popup
+2023-11-21 16:14:06,504 INFO    functional_Test_Cases.AWC002Working_On_Multiple_WIP_Revisions - Item Created Successfully

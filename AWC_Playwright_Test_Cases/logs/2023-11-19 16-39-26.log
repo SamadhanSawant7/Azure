@@ -1,0 +1,37 @@
+2023-11-19 16:39:34,810 INFO    functional_Test_Cases.AWC001Restricting_WIP_status - Starting Restricting WIP Status Test
+2023-11-19 16:39:34,817 INFO    functional_Test_Cases.AWC001Restricting_WIP_status - Starting restict_GeneralWIP Method
+2023-11-19 16:39:34,817 INFO    functional_Test_Cases.AWC001Restricting_WIP_status - Logged In ... Reached to Homepage
+2023-11-19 16:39:36,666 INFO    functional_Test_Cases.AWC001Restricting_WIP_status - Reached to Folder Page
+2023-11-19 16:39:44,031 INFO    functional_Test_Cases.AWC001Restricting_WIP_status - Clicked on add Button....reached Add Popup
+2023-11-19 16:39:49,606 INFO    functional_Test_Cases.AWC001Restricting_WIP_status - Item Creation started In Add Popup
+2023-11-19 16:39:49,612 INFO    functional_Test_Cases.AWC001Restricting_WIP_status - Item Created Successfully
+2023-11-19 16:39:49,895 INFO    functional_Test_Cases.AWC001Restricting_WIP_status - Reached Advanced Search Page
+2023-11-19 16:39:55,311 INFO    functional_Test_Cases.AWC001Restricting_WIP_status - Searching for Created Item
+2023-11-19 16:39:57,630 INFO    functional_Test_Cases.AWC001Restricting_WIP_status - Reached Item Overview Page
+2023-11-19 16:39:58,588 INFO    functional_Test_Cases.AWC001Restricting_WIP_status - Release Status is --> General WIP
+2023-11-19 16:39:58,588 INFO    functional_Test_Cases.AWC001Restricting_WIP_status - Release Status is Matched
+2023-11-19 16:40:01,164 INFO    functional_Test_Cases.AWC001Restricting_WIP_status - Starting restrict_P0WIP Method
+2023-11-19 16:40:01,164 INFO    functional_Test_Cases.AWC001Restricting_WIP_status - Logged In ... Reached to Homepage
+2023-11-19 16:40:03,007 INFO    functional_Test_Cases.AWC001Restricting_WIP_status - Reached to Folder Page
+2023-11-19 16:40:28,198 INFO    functional_Test_Cases.AWC001Restricting_WIP_status - Starting restrict_P1WIP Method
+2023-11-19 16:40:28,201 INFO    functional_Test_Cases.AWC001Restricting_WIP_status - Logged In ... Reached to Homepage
+2023-11-19 16:40:55,592 INFO    functional_Test_Cases.AWC001Restricting_WIP_status - Starting restrict_P2WIP Method
+2023-11-19 16:40:55,593 INFO    functional_Test_Cases.AWC001Restricting_WIP_status - Logged In ... Reached to Homepage
+2023-11-19 16:41:23,720 INFO    functional_Test_Cases.AWC001Restricting_WIP_status - Starting restrict_P3WIP Method
+2023-11-19 16:41:23,721 INFO    functional_Test_Cases.AWC001Restricting_WIP_status - Logged In ... Reached to Homepage
+2023-11-19 16:41:50,627 INFO    functional_Test_Cases.AWC001Restricting_WIP_status - Starting restrict_EVT1WIP Method
+2023-11-19 16:41:50,628 INFO    functional_Test_Cases.AWC001Restricting_WIP_status - Logged In ... Reached to Homepage
+2023-11-19 16:42:17,577 INFO    functional_Test_Cases.AWC001Restricting_WIP_status - Starting restrict_EVT2WIP Method
+2023-11-19 16:42:17,578 INFO    functional_Test_Cases.AWC001Restricting_WIP_status - Logged In ... Reached to Homepage
+2023-11-19 16:42:44,405 INFO    functional_Test_Cases.AWC001Restricting_WIP_status - Starting restrict_EVT3WIP Method
+2023-11-19 16:42:44,406 INFO    functional_Test_Cases.AWC001Restricting_WIP_status - Logged In ... Reached to Homepage
+2023-11-19 16:43:11,036 INFO    functional_Test_Cases.AWC001Restricting_WIP_status - Starting restrict_DVT1WIP Method
+2023-11-19 16:43:11,039 INFO    functional_Test_Cases.AWC001Restricting_WIP_status - Logged In ... Reached to Homepage
+2023-11-19 16:43:38,382 INFO    functional_Test_Cases.AWC001Restricting_WIP_status - Starting restrict_DVT2WIP Method
+2023-11-19 16:43:38,382 INFO    functional_Test_Cases.AWC001Restricting_WIP_status - Logged In ... Reached to Homepage
+2023-11-19 16:44:05,427 INFO    functional_Test_Cases.AWC001Restricting_WIP_status - Starting restrict_DVT3WIP Method
+2023-11-19 16:44:05,428 INFO    functional_Test_Cases.AWC001Restricting_WIP_status - Logged In ... Reached to Homepage
+2023-11-19 16:44:32,514 INFO    functional_Test_Cases.AWC001Restricting_WIP_status - Starting restrict_PVT1WIP Method
+2023-11-19 16:44:32,517 INFO    functional_Test_Cases.AWC001Restricting_WIP_status - Logged In ... Reached to Homepage
+2023-11-19 16:44:59,837 INFO    functional_Test_Cases.AWC001Restricting_WIP_status - Starting restrict_PVT2WIP Method
+2023-11-19 16:44:59,840 INFO    functional_Test_Cases.AWC001Restricting_WIP_status - Logged In ... Reached to Homepage

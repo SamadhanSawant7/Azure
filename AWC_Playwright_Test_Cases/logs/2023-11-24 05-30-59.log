@@ -1,0 +1,6 @@
+2023-11-24 05:31:06,631 INFO    negative_Test_Cases.AWC002Convert_WIP_To_WIP - Starting Convert WIP To WIP Status Test
+2023-11-24 05:31:06,634 INFO    negative_Test_Cases.AWC002Convert_WIP_To_WIP - Logged In ... Reached to Homepage
+2023-11-24 05:31:08,365 INFO    negative_Test_Cases.AWC002Convert_WIP_To_WIP - Reached to Folder Page
+2023-11-24 05:31:16,264 INFO    negative_Test_Cases.AWC002Convert_WIP_To_WIP - Clicked on add Button....reached Add Popup
+2023-11-24 05:31:23,010 INFO    negative_Test_Cases.AWC002Convert_WIP_To_WIP - Item Creation started In Add Popup
+2023-11-24 05:31:23,015 INFO    negative_Test_Cases.AWC002Convert_WIP_To_WIP - Item Created Successfully

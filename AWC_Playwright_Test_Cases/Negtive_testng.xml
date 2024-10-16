@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+<listener class-name="listeners.ExtentReportListener"></listener>
+</listeners>
+  <test thread-count="5" name="Test">
+    <classes>
+    <class name="negative_Test_Cases.AWC001Restrict_To_One_WIP"/>
+    <class name="negative_Test_Cases.AWC002Convert_WIP_To_WIP"/>
+    <class name="negative_Test_Cases.AWC003Submit_To_Workflow"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
